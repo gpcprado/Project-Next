@@ -10,7 +10,7 @@ const nextConfig = {
     //
     // **Please adjust the path.join() arguments if this path is incorrect for your setup.**
     // A safe guess often points to the project's parent folder:
-    root: path.join(process.cwd(), '../..'), 
+    root: path.join(process.cwd(), '/..'), 
   },
   
   // Existing configuration options can go here
