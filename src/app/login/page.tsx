@@ -67,7 +67,7 @@ export default function LoginPage() {
             rounded-full flex items-center justify-center shadow-xl"
           >
             <Image 
-                        src="/gweb.png"
+                        src="/GWEB.png"
                         alt="GRPWEB Logo"
                         width={50}
                         height={50}
