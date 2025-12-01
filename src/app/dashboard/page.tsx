@@ -101,7 +101,7 @@ export default function DashboardHome() {
      <header  className="flex justify-between items-center pb-4 border-b border-white/10 mb-8"> 
       <div className="flex items-center space-x-3">
           <Image 
-            src="/gweb.png"
+            src="/GWEB.png"
             alt="GRPWEB Logo"
             width={32}
             height={32}
