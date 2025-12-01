@@ -133,7 +133,7 @@ export default function ProfilePage() {
           <div className="relative mx-auto mb-4 h-24 w-24 bg-purple-600 border-4 border-purple-400 rounded-full flex items-center justify-center overflow-hidden shadow-xl">
 
         <Image 
-        src="/gweb.png"
+        src="/GWEB.png"
         alt="GRPWEB Logo"
         width={50}
         height={50}
